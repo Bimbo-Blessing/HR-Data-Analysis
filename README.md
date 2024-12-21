@@ -95,24 +95,28 @@ Power BI
 
 
 
+
 ![Screenshot (9)(1)(1)](https://github.com/user-attachments/assets/c4f13bd8-4b4e-4c9d-ab02-38e4c6348206)
+
 
 
 
 
 ## Data Analysis and Insights Generation
 Human Resources: Total numbers of employees for HR is 27, Attrition is 7 while the Current Employees remains 20, the attrition rate is 26%. For the Gender Attrition: 4 are males while 3 are females.
-Life Sciences: Toal number of employees are 606, Attrition is 89, while the Current Employees remain 517. The Attrition rate is 15%. For the Gender Attrition: 51 are males while 38 are females.
+Life Sciences: Total number of employees are 606, Attrition is 89, while the Current Employees remain 517. The Attrition rate is 15%. For the Gender Attrition: 51 are males while 38 are females.
 Marketing: Total number of employees are 159, Attrition is 35, while the Current Employees remain 124. The Attrition rate is 22%. For the Gender Attrition: 20 are males while 15 are females.
 Medical: Total numbers of employees are 464, Attrition is 63, while the Current Employees remain 401.
 The Attrition rate is 14%. For the Gender Attrition: 44 males and 19 females.
 Other: Total numbers of employees are 82, Attrition is 11, while the Current Employees is 71. The Attrition rate is 13%. For the Gender Attrition: males are 9 while females are 2.
+
 ## Recommendations
-Considering the rate of attrition from each department: 
-Human Resources=26%, Life Sciences=15%, Marketing=22%, Medical=14%, Other=13%. This summarizes the attrition rate to be 16%. My recommendations goes thus:
-The company should focus more on the staff welfare.
-The company should improve on the working environment, that is, to make the environment friendly.
-The company can increase the salaries of the employees in order to reduce the rate of attrition and be able to retain dedicated and committed employees
+- Considering the rate of attrition from each department: 
+- Human Resources=26%, Life Sciences=15%, Marketing=22%, Medical=14%, Other=13%. This summarizes the attrition rate to be 16%. My recommendations goes thus:
+- The company should focus more on the staff welfare.
+- The company should improve on the working environment, that is, to make the environment friendly.
+- The company can increase the salaries of the employees in order to reduce the rate of attrition and be able to retain dedicated and committed employees
+
 ## Conclusion
 The company should incorporate rewarding dedicated and hardworking employees which serves as a great motivation to employee retention and also to ensure friendly working environment.
 
