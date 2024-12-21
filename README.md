@@ -88,7 +88,11 @@ Power BI
 
 ## Dashboard Overview
 
-![Screenshot (8)](https://github.com/user-attachments/assets/3d0f3df6-5560-4c75-8c7e-b0c963c41af1
+
+![Screenshot (8)(1)(1)](https://github.com/user-attachments/assets/9d48bcda-1ef0-455a-ad39-e72cc2867c38)
+
+
+
 
 
 ![Screenshot (9)(1)(1)](https://github.com/user-attachments/assets/c4f13bd8-4b4e-4c9d-ab02-38e4c6348206)
