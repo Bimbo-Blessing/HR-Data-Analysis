@@ -104,10 +104,14 @@ Power BI
 
 ## Data Analysis and Insights Generation
 Human Resources: Total numbers of employees for HR is 27, Attrition is 7 while the Current Employees remains 20, the attrition rate is 26%. For the Gender Attrition: 4 are males while 3 are females.
+
 Life Sciences: Total number of employees are 606, Attrition is 89, while the Current Employees remain 517. The Attrition rate is 15%. For the Gender Attrition: 51 are males while 38 are females.
+
 Marketing: Total number of employees are 159, Attrition is 35, while the Current Employees remain 124. The Attrition rate is 22%. For the Gender Attrition: 20 are males while 15 are females.
+
 Medical: Total numbers of employees are 464, Attrition is 63, while the Current Employees remain 401.
 The Attrition rate is 14%. For the Gender Attrition: 44 males and 19 females.
+
 Other: Total numbers of employees are 82, Attrition is 11, while the Current Employees is 71. The Attrition rate is 13%. For the Gender Attrition: males are 9 while females are 2.
 
 ## Recommendations
