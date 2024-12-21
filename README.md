@@ -13,6 +13,8 @@ This project presents the data analysis tracker from the Human Resources Departm
 
 [Dashboard Overview](#Dashboard-Overview)
 
+[Data Analysis and Insight Generation](#Data-Analysis-and-Insight-Generation)
+
 [Recommendations](#Recommendations)
 
 [Conclusion](#Conclusion)
@@ -86,7 +88,15 @@ Power BI
 
 ## Dashboard Overview
 
-Data Analysis and Insights Generation
+![Screenshot (8)](https://github.com/user-attachments/assets/3d0f3df6-5560-4c75-8c7e-b0c963c41af1
+
+
+![Screenshot (9)(1)(1)](https://github.com/user-attachments/assets/c4f13bd8-4b4e-4c9d-ab02-38e4c6348206)
+
+
+
+
+## Data Analysis and Insights Generation
 Human Resources: Total numbers of employees for HR is 27, Attrition is 7 while the Current Employees remains 20, the attrition rate is 26%. For the Gender Attrition: 4 are males while 3 are females.
 Life Sciences: Toal number of employees are 606, Attrition is 89, while the Current Employees remain 517. The Attrition rate is 15%. For the Gender Attrition: 51 are males while 38 are females.
 Marketing: Total number of employees are 159, Attrition is 35, while the Current Employees remain 124. The Attrition rate is 22%. For the Gender Attrition: 20 are males while 15 are females.
