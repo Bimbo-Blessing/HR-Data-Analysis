@@ -59,7 +59,7 @@ Life Sciences = 89
 Marketing = 35
 Medical = 63
 Other = 11
-Age band by Gender of Current Employees:
+- Age band by Gender of Current Employees:
 Under 25; Male= 40, Female= 19
 25 – 34; Male= 268, Female= 174
 35 – 44; Male= 272, Female= 182
@@ -67,7 +67,7 @@ Under 25; Male= 40, Female= 19
 Over 55; Male= 36, Female= 22
 
 
-Job Satisfaction Rating by Attrition
+- Job Satisfaction Rating by Attrition
 46 were dissatisfied with their jobs
 66 were very dissatisfied with their jobs
 73 were satisfied with their jobs.
