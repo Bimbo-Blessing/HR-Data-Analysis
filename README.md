@@ -4,11 +4,17 @@
 This project presents the data analysis tracker from the Human Resources Department showing the numbers of employees, attrition count, attrition rate and the current employees.
 
 [Data Description](#Data-Description)
+
 [Basic Statistics about the Dataset](#Basic-Statistics-about-the-Dataset)
+
 [Data Collection](#Data-Collection)
+
 [Tools Used](#Tools-Used)
+
 [Dashboard Overview](#Dashboard-Overview)
+
 [Recommendations](#Recommendations)
+
 [Conclusion](#Conclusion)
 
 
