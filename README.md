@@ -21,39 +21,39 @@ This project presents the data analysis tracker from the Human Resources Departm
 
 ## Data Description
 The dataset includes the following:
-Attrition: This shows the reduction in the number of employees. The ‘Yes’ option shows that the employee has disengaged while the ‘No’ option show that the employee is currently engaged with the organization.  
-Business Travel: This shows employees which travel frequently or rarely travel or non-travel.
-CF-Age band: This shows the age distribution of the employees.
-CF-Attrition label: This shows the attrition category for each employee, either as: Ex-Employee or Current Employee.
-Department: This refers to the working department of each the employee.
-Education Field: This refers to employees’ field in education.
-Employee Number: This is the unique identifier for each employee.
-Gender: This shows the gender of each of the employee.
-Job Role: This refers to the job role performed by each employee.
-Marital Status: This refers to the marital status of each employee, either as single, married or divorced.
-Overtime: This shows the employees who are engaged in overtime aside the normal working hours.
-Over 18: Thie refers to employees that are above 18 years.
-Training times last year: This refers to the numbers of times each employee was trained in the previous year.
-Age: This refers to the age of each of the employee.
-CF-Current Employee: This field refers to the employees that are currently engaged with the organization.
-Education: This refers to the academic qualification of each employee.
-Employee Count: This refers to the total numbers of employees before attrition.
-Hourly Rate: This refers to the rate of hours worked by each employee.
-Monthly Income: This field refers to the income obtained by each employee.
-Numbers of Companies worked: This shows the numbers of companies that each employee had worked with.
-Percent Salary Hike: This shows the percentage in salary hike of each employee.
-Total working years: This shows the numbers of years each employee had worked.
-Attrition Count: This refers to the count of employees who have disengaged.
-Age Sort: This field refers to sorting out the age band in an ascending order.
-Job Satisfaction Rating: This shows the rate of job satisfaction by each employee such as: Satisfied, Very satisfied, Dissatisfied, e.t.c.
+- Attrition: This shows the reduction in the number of employees. The ‘Yes’ option shows that the employee has disengaged while the ‘No’ option show that the employee is currently engaged with the organization.  
+- Business Travel: This shows employees which travel frequently or rarely travel or non-travel.
+- CF-Age band: This shows the age distribution of the employees.
+- CF-Attrition label: This shows the attrition category for each employee, either as: Ex-Employee or Current Employee.
+- Department: This refers to the working department of each the employee.
+- Education Field: This refers to employees’ field in education.
+- Employee Number: This is the unique identifier for each employee.
+- Gender: This shows the gender of each of the employee.
+- Job Role: This refers to the job role performed by each employee.
+- Marital Status: This refers to the marital status of each employee, either as single, married or divorced.
+- Overtime: This shows the employees who are engaged in overtime aside the normal working hours.
+- Over 18: Thie refers to employees that are above 18 years.
+- Training times last year: This refers to the numbers of times each employee was trained in the previous year.
+- Age: This refers to the age of each of the employee.
+- CF-Current Employee: This field refers to the employees that are currently engaged with the organization.
+- Education: This refers to the academic qualification of each employee.
+- Employee Count: This refers to the total numbers of employees before attrition.
+- Hourly Rate: This refers to the rate of hours worked by each employee.
+- Monthly Income: This field refers to the income obtained by each employee.
+- Numbers of Companies worked: This shows the numbers of companies that each employee had worked with.
+- Percent Salary Hike: This shows the percentage in salary hike of each employee.
+- Total working years: This shows the numbers of years each employee had worked.
+- Attrition Count: This refers to the count of employees who have disengaged.
+- Age Sort: This field refers to sorting out the age band in an ascending order.
+- Job Satisfaction Rating: This shows the rate of job satisfaction by each employee such as: Satisfied, Very satisfied, Dissatisfied, e.t.c.
 
 ## Basic Statistics about the Dataset
-Total numbers of Employees = 1,470
-Total numbers of Attrition = 237
-Total numbers of Current Employees = 1,233
-Average Age = 37
-Attrition Rate = 16%
-Attrition Count by Education Field:
+- Total numbers of Employees = 1,470
+- Total numbers of Attrition = 237
+- Total numbers of Current Employees = 1,233
+- Average Age = 37
+- Attrition Rate = 16%
+- Attrition Count by Education Field:
 Human Resources = 7
 Life Sciences = 89
 Marketing = 35
